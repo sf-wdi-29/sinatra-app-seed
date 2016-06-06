@@ -1,4 +1,4 @@
-# Seeding a Database
+# Seeding a Sinatra App
 
 ## Why is Seeding Useful?
 
