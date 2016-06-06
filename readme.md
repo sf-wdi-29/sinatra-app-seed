@@ -1,4 +1,4 @@
-# Seeding a Sinatra App
+# Extras: Seeding a Sinatra App
 
 ## Why is Seeding Useful?
 
